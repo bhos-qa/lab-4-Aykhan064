@@ -1,4 +1,4 @@
-name: CI SonarCloud - AK
+name: CI SonarCloud - AK Test
 
 on:
   push:
